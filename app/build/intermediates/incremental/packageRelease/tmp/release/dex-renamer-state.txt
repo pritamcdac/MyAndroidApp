@@ -1,0 +1,4 @@
+#Tue Apr 08 12:58:50 IST 2025
+base.0=E\:\\Mobile\\MyAndroidApp\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
